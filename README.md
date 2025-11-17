@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">✨ Davi Monteiro Carvalho ✨</h1>
+<h1 align="center"> Davi Monteiro Carvalho </h1>
 <h3 align="center">Estudante de ADS • IFBAIANO Campus Guanambi</h3>
 
 <br>
