@@ -13,7 +13,7 @@
 
 <br>
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 Sou o **Davi**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 no **IF Baiano – Campus Guanambi**.
@@ -28,7 +28,7 @@ Atualmente estudo e pratico:
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
   <!-- ÍCONE C VISÍVEL -->
@@ -54,23 +54,11 @@ Atualmente estudo e pratico:
 
 ---
 
-## 🟩 A famosa cobrinha neon
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
 ---
-
-## 🔥 Linha laser animada
-
-<div align="center">
-  <img src="https://i.imgur.com/zYJZC9z.gif" width="600" />
-</div>
-
----
-
-## 🧠 Modo Dev On
 
 ```c
 while(learning) {
