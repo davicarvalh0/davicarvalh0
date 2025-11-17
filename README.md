@@ -1,61 +1,49 @@
-<!-- Banner estiloso -->
-<h1 align="center">🌐 Bem-vindo ao meu GitHub! 🌐</h1>
+<!-- Banner -->
+<h1 align="center">✨ Davi Monteiro Carvalho ✨</h1>
+<h3 align="center">Estudante de ADS • IFBAIANO Campus Guanambi</h3>
+
+<br>
 
 <div align="center">
-  <img src="https://i.imgur.com/SGJYB7i.gif" width="400px" alt="Coding Animation">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
----
+<br>
 
-## 👋 Olá! Eu sou o **Davi**
+## 👨‍💻 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-🏫 **IF Baiano – Campus Guanambi**  
-💻 Apaixonado por tecnologia, programação e criação de projetos.
+Sou o **Davi**, estudante de **Análise e Desenvolvimento de Sistemas** pelo  
+**IF Baiano – Campus Guanambi**, apaixonado por tecnologia, programação e criar soluções de verdade.
 
----
+Atualmente aprendo e desenvolvo principalmente em:
 
-## 🧠 Tecnologias & Conhecimentos
+- 🧠 **C (estruturas de dados, ponteiros, alocação dinâmica, projetos de terminal)**
+- 🐍 **Python (scripts, lógica e automação)**
 
-### 💻 Linguagens  
-<div>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
-### 🌐 Outras habilidades
-- Estruturas de Dados  
-- Algoritmos  
-- Lógica de Programação  
-- Sistemas Operacionais  
-- HTML/CSS/JavaScript (básico e evoluindo sempre)
+Gosto de entender como as coisas funcionam por dentro e vivo criando projetos para treinar lógica e estrutura de código.
 
 ---
 
-## 🚀 Sobre Mim
-
-Sou um estudante dedicado que gosta de entender como as coisas funcionam por dentro — de ponteiros em C até interfaces no front-end.  
-Aqui no GitHub você vai encontrar meus projetos acadêmicos, exercícios de lógica, estruturas de dados, sistemas e muito mais.
-
----
-
-## ⚙️ Estatísticas do GitHub
+## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davicarvalh0&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicarvalh0&layout=compact&theme=tokyonight" />
+  
+  <img src="https://skillicons.dev/icons?i=c,python,linux,git,github,vscode" />
+
 </div>
 
 ---
 
-## 📬 Contato
-
-📧 Email: **davimc0612@gmail.com**  
-🐙 Perfil: **[github.com/davicarvalh0](https://github.com/davicarvalh0)**
-
----
+## 📊 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img src="https://i.imgur.com/8fK4h6F.gif" width="250px">
-  <h3>✨ Obrigado por visitar! ✨</h3>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=davicarvalh0&show_icons=true&theme=react&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=davicarvalh0&layout=compact&theme=react&hide_border=true" />
 </div>
+
+---
+
+## 🌐 Onde me encontrar
+
+📧 **Email:** `davimc0612@gmail.com`  
+🐙 **GitHub:** [github.com/davic]()
