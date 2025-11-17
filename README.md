@@ -1,49 +1,40 @@
-<!-- Banner -->
-<h1 align="center"> Davi Monteiro Carvalho </h1>
-<h3 align="center">Estudante de ADS • IFBAIANO Campus Guanambi</h3>
+<h1 align="center">⚡ Davi Monteiro Carvalho ⚡</h1>
+<h3 align="center">Estudante de ADS | IF Baiano – Campus Guanambi</h3>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+┌───────────────────────────────────────────────┐
+│   "Transformando lógica em código,            │
+│            e curiosidade em projetos."        │
+└───────────────────────────────────────────────┘
+
 </div>
 
 <br>
 
-## 👨‍💻 Sobre mim
+## 🧑‍💻 Quem sou eu?
 
-Sou o **Davi**, estudante de **Análise e Desenvolvimento de Sistemas** pelo  
-**IF Baiano – Campus Guanambi**, apaixonado por tecnologia, programação e criar soluções de verdade.
+Sou o **Davi**, apaixonado por programação, tecnologia e pela sensação de tirar uma ideia da cabeça e colocar no terminal rodando sem erro (quase sempre 😂).
 
-Atualmente aprendo e desenvolvo principalmente em:
+Estudo **Análise e Desenvolvimento de Sistemas (ADS)**  
+no **IFBAIANO – Campus Guanambi**, onde venho fortalecendo meu conhecimento em:
 
-- 🧠 **C (estruturas de dados, ponteiros, alocação dinâmica, projetos de terminal)**
-- 🐍 **Python (scripts, lógica e automação)**
-
-Gosto de entender como as coisas funcionam por dentro e vivo criando projetos para treinar lógica e estrutura de código.
+- 🚀 **C** (ponteiros, structs, listas, árvores, alocação dinâmica)
+- 🐍 **Python** (automação, lógica, scripts práticos)
+- 💡 Algoritmos e estruturas de dados
+- 🌐 Front-end e interfaces (IHM)
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🛠️ Stack Tecnológica
 
 <div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=c,python,linux,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=c,python,linux,vscode,git,github" />
 </div>
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
+## 🎨 Meu estilo como dev
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=davicarvalh0&show_icons=true&theme=react&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=davicarvalh0&layout=compact&theme=react&hide_border=true" />
-</div>
-
----
-
-## 🌐 Onde me encontrar
-
-📧 **Email:** `davimc0612@gmail.com`  
-🐙 **GitHub:** [github.com/davic]()
