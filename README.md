@@ -5,7 +5,7 @@
 
 <br>
 
-<!-- ASCII ANIMADO (efeito matrix/tech) -->
+<!-- ASCII ANIMADO -->
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=450&lines=%3E+Transformando+l%C3%B3gica+em+c%C3%B3digo;%3E+Criatividade+em+solu%C3%A7%C3%B5es;%3E+Erros+em+aprendizado.)
@@ -16,26 +16,27 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou **Davi**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+Sou o **Davi**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 no **IF Baiano – Campus Guanambi**.
 
 Atualmente me aprofundo em:
 
-- 🚀 **C** (estruturas de dados, ponteiros, árvores, listas, memória)
-- 🐍 **Python** (automação, scripts, lógica)
-- ⚙️ Pensamento computacional, algoritmos e sistemas
+- 🚀 **C** — estruturas de dados, ponteiros, listas, árvores, memória
+- 🐍 **Python** — automação, scripts, lógica
+- 🌐 **HTML & CSS** — interfaces, responsividade, design e prática de front-end
+- ⚙️ Pensamento computacional e algoritmos
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Tecnologias & Ferramentas que uso
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,linux,vscode,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,linux,vscode,git,github&theme=dark" />
 </div>
 
 ---
 
-## ⚡ Estatísticas
+## ⚡ Estatísticas do meu GitHub
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=davicarvalh0&theme=tokyonight&show_icons=true&hide_border=true" />
@@ -44,8 +45,8 @@ Atualmente me aprofundo em:
 
 ---
 
-## 🟩 Animação personalizada  
-### 🐍 A clássica cobrinha — mas com efeito neon
+## 🟩 Animação especial  
+### 🐍 A cobrinha neon comendo meus commits
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
@@ -53,7 +54,7 @@ Atualmente me aprofundo em:
 
 ---
 
-## 🔥 Linha laser animada (efeito tech)
+## 🔥 Linha laser animada
 
 <div align="center">
   <img src="https://i.imgur.com/zYJZC9z.gif" width="600" />
@@ -65,7 +66,7 @@ Atualmente me aprofundo em:
 
 ```c
 while(learning) {
-    printf("Coding...\\n");
+    code();
     debug();
     drink_coffee();
 }
