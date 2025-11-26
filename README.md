@@ -1,6 +1,6 @@
 <!-- HEADER NEON GLITCH -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6CF6FF&center=true&vCenter=true&width=520&lines=⚡+Davi+Monteiro+Carvalho+⚡;Estudante+de+ADS;IF+Baiano+Campus+Guanambi;Bem-vindo+ao+meu+perfil!+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6CF6FF&center=true&vCenter=true&width=520&lines=+Davi+Monteiro+Carvalho+;Estudante+de+ADS;IF+Baiano+Campus+Guanambi;Bem-vindo+ao+meu+perfil!+" />
 </h1>
 
 <br>
