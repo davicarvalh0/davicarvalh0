@@ -43,17 +43,6 @@ Atualmente estudo e pratico:
   <img src="https://img.shields.io/badge/VSCode-1f77d0?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
 
----
-
-## ⚡ Estatísticas
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=davicarvalh0&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=davicarvalh0&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
