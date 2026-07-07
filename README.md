@@ -18,7 +18,8 @@ Atualmente estudo e pratico:
 
 - 🚀 **C** — listas, ponteiros, estruturas de dados, memória  
 - 🐍 **Python** — automação, lógica, scripts  
-- ☕ **Java** — programação orientada a objetos, MVC, JDBC  
+- ☕ **Java** — programação orientada a objetos, MVC, JDBC
+- 🔷 **C#** — lógica de programação, estruturas de dados, desafios práticos 
 - 🌐 **HTML & CSS** — interfaces, responsividade, design  
 - 🛢️ **MySQL e PostgreSQL(noções)** — consultas, banco de dados, modelagem  
 - 📐 **UML** — diagramas de caso de uso, classes e entidade-relacionamento *(iniciante)*  
