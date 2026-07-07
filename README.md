@@ -22,8 +22,8 @@ Atualmente estudo e pratico:
 - 🔷 **C#** — lógica de programação, estruturas de dados, desafios práticos 
 - 🌐 **HTML & CSS** — interfaces, responsividade, design  
 - 🛢️ **MySQL e PostgreSQL(noções)** — consultas, banco de dados, modelagem  
-- 📐 **UML** — diagramas de caso de uso, classes e entidade-relacionamento *(iniciante)*  
-- 🐳 **Docker** — containers, ambientes isolados *(iniciante)*  
+- 📐 **UML** — diagramas de caso de uso, classes e entidade-relacionamento
+- 🐳 **Docker** — containers, ambientes isolados 
 - ⚙️ Algoritmos e pensamento computacional
 
 ---
