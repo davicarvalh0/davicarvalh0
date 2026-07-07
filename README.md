@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Sou o **Davi**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **IF Baiano – Campus Guanambi**.
+Sou **Davi**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **IF Baiano – Campus Guanambi**.
 
 Atualmente estudo e pratico:
 
@@ -20,7 +20,7 @@ Atualmente estudo e pratico:
 - 🐍 **Python** — automação, lógica, scripts  
 - ☕ **Java** — programação orientada a objetos, MVC, JDBC  
 - 🌐 **HTML & CSS** — interfaces, responsividade, design  
-- 🛢️ **MySQL** — consultas, banco de dados, modelagem  
+- 🛢️ **MySQL e PostgreSQL(noções)** — consultas, banco de dados, modelagem  
 - 📐 **UML** — diagramas de caso de uso, classes e entidade-relacionamento *(iniciante)*  
 - 🐳 **Docker** — containers, ambientes isolados *(iniciante)*  
 - ⚙️ Algoritmos e pensamento computacional
