@@ -12,8 +12,7 @@
 
 ## Sobre mim
 
-Sou o **Davi**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-no **IF Baiano – Campus Guanambi**.
+Sou o **Davi**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **IF Baiano – Campus Guanambi**.
 
 Atualmente estudo e pratico:
 
